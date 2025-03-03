@@ -1,0 +1,6 @@
+@Crud_Operations_With_EfCore_HostAddress = http://localhost:5071
+
+GET {{Crud_Operations_With_EfCore_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
