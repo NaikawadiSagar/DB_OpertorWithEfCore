@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Crud_Operations_With_EfCore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ca319b32d4a7e90d3899bcd615a80e9f31847a34")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+789eeecc1625cfeaa453fcf48415af62e79a639f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Crud_Operations_With_EfCore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Crud_Operations_With_EfCore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
